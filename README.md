@@ -4,3 +4,12 @@ This project aims to analyze customer demographics and behavioral data to unders
 
 ## Dataset Used
 - <a href="https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx">Bike_Sales_Dataset</a>
+
+
+## Questions (KPIs)
+- What is the average income of customers who purchased a bike vs those who didn't?
+- What is the commute distance preference of customers who bought bikes?
+- How does age bracket affect bike purchases?
+- Are males or females more likely to purchase a bike?
+- Which demographic filters (education, occupation, region) show higher purchase rates?
+- 
