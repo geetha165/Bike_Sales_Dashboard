@@ -25,4 +25,13 @@ This project aims to analyze customer demographics and behavioral data to unders
 
 ![Bike_Sales_Dashboard](https://github.com/user-attachments/assets/c3ac4784-76e3-47a5-9854-2b7d3235bfa4)
 
+## Project Insights
+- Male customers with higher income are more likely to purchase bikes.
+- Customers with 0–1 mile commute distance show the highest number of bike purchases.
+- Middle-aged individuals are the top buyers.
+- Marital status, education level, and region also influence purchase behavior.
+
+## Final Conclusion
+This dashboard helps in identifying potential customer groups for targeted marketing campaigns. For example, middle-aged, high-income males with short commute distances are the most likely to purchase a bike. Businesses can use these insights for personalized offers, location-specific promotions, and strategic inventory planning.
+
 
