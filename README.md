@@ -1,2 +1,3 @@
-# Bike_Sales_Dashboard
-This project is an interactive dashboard built using Microsoft Excel to analyze bike sales data. It explores customer demographics like age, income, and commute distance to identify buying trends. The dashboard offers valuable insights for targeted marketing and decision-making.
+# Bike Sales Data Analysis Dashboard (MS Excel)
+## Project Objective
+This project aims to analyze customer demographics and behavioral data to understand trends in bike purchases. The dashboard provides insights into customer income, commute distance, age group, and purchasing behavior. This can help stakeholders make data-driven decisions in marketing and sales strategy.
