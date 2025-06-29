@@ -34,4 +34,5 @@ This project aims to analyze customer demographics and behavioral data to unders
 ## ✅Final Conclusion
 This dashboard helps in identifying potential customer groups for targeted marketing campaigns. For example, middle-aged, high-income males with short commute distances are the most likely to purchase a bike. Businesses can use these insights for personalized offers, location-specific promotions, and strategic inventory planning.
 
-
+## 📬 Connect with me on LinkedIn:
+- <a href="https://www.linkedin.com/in/geetha-venkatesan2205/">👉 LinkedIn Profile</a>
